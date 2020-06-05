@@ -22,8 +22,8 @@ This example demonstrates how to use SpecFlow and C# to run an Automated Tests w
 You will see the test result in the [TestingBot Dashboard](https://testingbot.com/members/)
 
 ### Uploading your app for testing
-	This example code will use an example `.apk` file. To test your own `.apk` or `.ipa`, please make sure to read our [Mobile App Documentation](https://testingbot.com/support/mobile/help.html).
+This example code will use an example `.apk` file. To test your own `.apk` or `.ipa`, please make sure to read our [Mobile App Documentation](https://testingbot.com/support/mobile/help.html).
 
 ### Resources
-##### [TestingBot Documentation](https://testingbot.com/support/mobile/specflow.html)
-##### [Appium Documentation](http://appium.io/)
+* [TestingBot Documentation](https://testingbot.com/support/mobile/specflow.html)
+* [Appium Documentation](http://appium.io/)
